@@ -7,4 +7,5 @@ package src.java.com.soldier.pojo;
  * @date 2022/7/7 9:17
  */
 public class User {
+    private String name;
 }
