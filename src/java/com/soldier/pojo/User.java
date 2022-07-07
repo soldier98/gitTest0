@@ -8,6 +8,4 @@ package src.java.com.soldier.pojo;
  */
 public class User {
     private String name;
-    //在profix分支上做的修改
-    private String profix;
 }
